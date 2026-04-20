@@ -1,5 +1,5 @@
 # 🏠 House Price Prediction using Machine Learning
-
+Machine learning model predicting house prices with 88% accuracy (R² score).
 ## 📌 Overview
 
 This project builds a machine learning model to predict house prices based on various features such as quality, size, and location-related factors.

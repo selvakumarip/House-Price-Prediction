@@ -44,7 +44,7 @@ The goal is to understand which factors influence house prices and build an accu
 
 ### Feature Importance
 
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](images/Feature_importance.png)
 
 ### House Price Prediction
 
